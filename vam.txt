@@ -1,3 +1,8 @@
 afjaf
 asdfajklfa
 asklfafg
+
+we can add the things in the file  with the help of git 
+here is some code 
+my name is vijay my friend name is kundan 
+i have a pen that is pentonic and i have a blue pen also
